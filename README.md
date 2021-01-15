@@ -74,6 +74,6 @@
 
 <div align="center">
  
-Go To [Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
+Go To [My Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
 
 </div>
