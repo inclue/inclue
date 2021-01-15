@@ -36,7 +36,11 @@
 
 ## Project
  - [Where to meet?](https://github.com/ChristopherJdL/wheretomeet-api)
+   - 소프트웨어공학 수업 팀 프로젝트
+   - 사용자별 위치를 가져온 뒤, Google Maps API를 이용해 만날 위치를 추천해주는 알고리즘을 개발함.
  - [Tech Interview Practice Service](https://github.com/zeropage/tips)
+   - 캡스톤디자인 수업 팀 프로젝트
+   - 프론트엔드를 주로 전담하여 개발함.
 
 ## Activity
  - (2015. 03. ~ ) 중앙대학교 프로그래밍 학회 ZeroPage 25기
