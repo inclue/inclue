@@ -1,25 +1,35 @@
 # Inseo Park (inclue)
 
 ## 🙋‍♂️ Profile
- - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 재학 중
- - (2020. 12. ~ 2021. 07.) 안랩 매니지먼트 제품 기능 & 성능 테스트 인턴 진행중
+ - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 재학 중(현재 3학년 수료)
+ - (2020. 12. ~ Now) 안랩 매니지먼트 제품 기능 & 성능 테스트 인턴
  - (2020. 01. ~ 2020. 04.) 디지털존 개발1팀 사원
  - (2019. 06. ~ 2019. 12.) 슈가힐 개발본부 연구원
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
 
 ## Cards
+<div align="center">
 
 [![inclue's github stats](https://github-readme-stats.vercel.app/api?username=inclue&show_icons=true&hide_border=true)](https://github.com/inclue)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
 
+</div>
+
+<div align="center">
 
 [![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
 [![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
 
+</div>
+
+<div align="center">
+ 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inclue/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://inclue.kr/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/inclue)
 
+</div>
+ 
 ## Tech Stack
  - Language
    - Well used : C#, Python
