@@ -25,7 +25,6 @@
    - WPF & Windows Forms
    - NodeJS & ExpressJS
    - Bootstrap & ReactJS
-   - Kubernetes
    - Elasticsearch
 
  - Tools
@@ -33,6 +32,7 @@
    - JIRA & Confluence
    - DevExpress
    - Redmine
+   - Docker & Kubernetes
 
 ## Project
  - [Tech Interview Practice Service](https://github.com/zeropage/tips)
