@@ -42,14 +42,13 @@
    - 소프트웨어공학 수업 팀 프로젝트
    - 사용자별 위치를 가져온 뒤, Google Maps API를 이용해 만날 위치를 추천해주는 알고리즘을 개발함.
 
-## Activity - Algorithm
- - 추가 예정
-
-## Activity - Organization
+## Activity
  - (2015. 03. ~ ) 중앙대학교 프로그래밍 학회 ZeroPage 25기
    - (2016. 02. ~ 2017. 01.) 중앙대학교 프로그래밍 학회 ZeroPage 26대 회장
  - (2017. 01. ~ ) 중앙대학교 알고리즘 학회 ChAOS 1기
    - (2017. 01. ~ 2017. 12.) 중앙대학교 알고리즘 학회 ChAOS 초대 회장
+ - 2017, 2018 중앙대학교 신입생 프로그래밍 대회 문제 출제진
+ - 2017, 2018, 2019, 2020 중앙대학교 프로그래밍 경진대회 문제 출제진
 
 ## Awards
  - (2020. 11.) [2020 오픈소스 컨트리뷰톤](https://www.oss.kr/contributhon_notice/show/bf01f047-eb8e-429a-a986-3560bf6d691e) 가비아 특별상 (참여 주제 : .Net Core 프레임워크 및 SDK)
@@ -57,6 +56,7 @@
  - (2020. 09.) [브랜디 코드네임B](https://brandi.goorm.io/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b_) 장려상
  - (2019. 07.) [2019 ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
  - (2018. 07.) [2018 ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
+ - (2017. 12.) TOPCIT 알고리즘 2차 정기평가 7등
  - (2015. 11.) 중앙대학교 창의ICT 프로그래밍 경진대회 특별상
    
 ## Cards - Github
