@@ -15,28 +15,6 @@
  - (2019. 06. ~ 2019. 12.) 슈가힐 개발본부 연구원
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
 
-## Cards - Github
-<div align="center">
-
-[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=inclue&show_icons=true&hide_border=true)](https://github.com/inclue)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
-
-</div>
-
-## Cards - Problem Solving
-<div align="center">
-
-[![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
-[![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
-
-</div>
-
-<div align="center">
- 
-Go To [Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
-
-</div>
-
 ## Tech Stack
  - Language
    - Well used : C#, Python
@@ -67,5 +45,31 @@ Go To [Problem Solving Github Repository](https://github.com/inclue/Algorithm-So
    - (2017. 01. ~ 2017. 12.) 중앙대학교 알고리즘 학회 ChAOS 초대 회장
 
 ## Awards
- - (2020. 11.) [2020 오픈소스 컨트리뷰톤](https://github.com/ChristopherJdL/wheretomeet-api) 가비아 특별상 (참여 주제 : .Net Core 프레임워크 및 SDK)
+ - (2020. 11.) [2020 오픈소스 컨트리뷰톤](https://www.oss.kr/contributhon_notice/show/bf01f047-eb8e-429a-a986-3560bf6d691e) 가비아 특별상 (참여 주제 : .Net Core 프레임워크 및 SDK)
+ - (2020. 09.) [중앙대학교 2020 SW‧AI전공 코딩경진대회](https://programmers.co.kr/competitions/515/cau-2020-sw-ai-coding-contest) 최우수상
+ - (2020. 09.) [브랜디 코드네임B](https://brandi.goorm.io/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b_) 장려상
+ - (2019. 07.) [ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
+ - (2018. 07.) [ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
+ - (2015. 11.) 중앙대학교 창의ICT 프로그래밍 경진대회 특별상
    
+## Cards - Github
+<div align="center">
+
+[![inclue's github stats](https://github-readme-stats.vercel.app/api?username=inclue&show_icons=true&hide_border=true)](https://github.com/inclue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=inclue&layout=compact)](https://github.com/inclue)
+
+</div>
+
+## Cards - Problem Solving
+<div align="center">
+
+[![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
+[![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
+
+</div>
+
+<div align="center">
+ 
+Go To [Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
+
+</div>
