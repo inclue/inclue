@@ -18,7 +18,7 @@
 ## Tech Stack
  - Language
    - Well used : C#, Python
-   - Can be used : C/C++, Java, JavaScript, Go
+   - Can be used : C/C++, Java, JavaScript, Go, PowerShell
    - SQL : MySQL, MariaDB, Microsoft SQL Server, SQLite
 
  - Framework & Library
