@@ -31,8 +31,12 @@
 
 </div>
 
-[Problem Solving](https://github.com/inclue/Algorithm-Solution)
+<div align="center">
  
+Go To [Problem Solving Github Repository](https://github.com/inclue/Algorithm-Solution)
+
+</div>
+
 ## Tech Stack
  - Language
    - Well used : C#, Python
