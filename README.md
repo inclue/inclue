@@ -54,8 +54,8 @@
  - (2020. 11.) [2020 오픈소스 컨트리뷰톤](https://www.oss.kr/contributhon_notice/show/bf01f047-eb8e-429a-a986-3560bf6d691e) 가비아 특별상 (참여 주제 : .Net Core 프레임워크 및 SDK)
  - (2020. 09.) [중앙대학교 2020 SW‧AI전공 코딩경진대회](https://programmers.co.kr/competitions/515/cau-2020-sw-ai-coding-contest) 최우수상
  - (2020. 09.) [브랜디 코드네임B](https://brandi.goorm.io/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b_) 장려상
- - (2019. 07.) [2019 ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
- - (2018. 07.) [2018 ICT K-Awards 알고리즘 프로그래밍 부분](http://kise.or.kr) 대학부 동상
+ - (2019. 07.) [2019 ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) 알고리즘 프로그래밍 부분 대학부 동상
+ - (2018. 07.) [2018 ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) 알고리즘 프로그래밍 부분 대학부 동상
  - (2017. 12.) TOPCIT 알고리즘 2차 정기평가 7등
  - (2015. 11.) 중앙대학교 창의ICT 프로그래밍 경진대회 특별상 (팀명 : 참가상주나요)
    
