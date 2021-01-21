@@ -17,22 +17,22 @@
 
 ## Tech Stack
  - Language
-   - Well used : C#, Python
-   - Can be used : C/C++, Java, JavaScript, Go, PowerShell
+   - Mainly : C#, Python
+   - Sometimes : C/C++, Java, JavaScript, PowerShell, Go(Learning)
    - SQL : MySQL, MariaDB, Microsoft SQL Server, SQLite
 
  - Framework & Library
    - WPF & Windows Forms
    - NodeJS & ExpressJS
    - Bootstrap & ReactJS
-   - Elasticsearch
+   - Elasticsearch(Learning)
 
  - Tools
    - Git(Github, Gitlab, ButBucket) & SVN
    - JIRA & Confluence
-   - DevExpress
    - Redmine
-   - Docker & Kubernetes
+   - DevExpress
+   - Docker & Kubernetes(Learning)
 
 ## Project
  - [Tech Interview Practice Service](https://github.com/zeropage/tips)
