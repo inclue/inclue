@@ -49,7 +49,7 @@
    - (2017. 01. ~ 2017. 12.) 중앙대학교 알고리즘 학회 ChAOS 초대 회장
  - 2017, 2018 중앙대학교 신입생 프로그래밍 대회 문제 출제진 및 내부 검수진
  - 2017, 2018, 2019, 2020 중앙대학교 프로그래밍 경진대회 문제 출제진 및 내부 검수진
-  - [만든 문제 목록](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) 보러가기
+   - [만든 문제 목록](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) 보러가기
  - [2020 경북대학교 Goricon](https://www.acmicpc.net/contest/view/545) 외부 검수진
  - [2020 연세대학교 컴퓨터과학과 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/550) 외부 검수진
  - [제1회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/557) 외부 검수진
