@@ -53,10 +53,10 @@
  - [2020 경북대학교 Goricon](https://www.acmicpc.net/contest/view/545) 외부 검수진
  - [2020 연세대학교 컴퓨터과학과 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/550) 외부 검수진
  - [제1회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/557) 외부 검수진
- - [INU 코드 페스티벌 2020](https://www.acmicpc.net/contest/view/572) 외부 검수진
- - [Zero One Algorithm Contest 2020](https://www.acmicpc.net/contest/view/561) 외부 검수진
- - [2020 인하대학교 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/579) 외부 검수진
- - [2020 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/board/view/62587) 외부 검수진
+ - [INU 코드 페스티벌 2020](https://www.acmicpc.net/category/detail/2364) 외부 검수진
+ - [Zero One Algorithm Contest 2020](https://www.acmicpc.net/category/detail/2374) 외부 검수진
+ - [2020 인하대학교 프로그래밍 경진대회](https://www.acmicpc.net/category/detail/2381) 외부 검수진
+ - [2020 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/category/detail/2399) 외부 검수진
 
 ## Awards
  - (2021. 01.) [제1회 멀티캠퍼스 코딩마스터즈](https://www.multicampus.com/common/board/boardMstr/124386?bltndSno=12351964) 백엔드 부문 2위
