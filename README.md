@@ -11,17 +11,17 @@
 ## 🙋‍♂️ Profile
  - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 소프트웨어전공 재학 중(현재 3학년 수료)
  - (2020. 12. ~ Now) 안랩 매니지먼트개발실 인턴
-  - 매니지먼트 제품 기능 & 성능 테스트 업무 진행
-  - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible, Bamboo, Travis CI
+   - 매니지먼트 제품 기능 & 성능 테스트 업무 진행
+   - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible, Bamboo, Travis CI
  - (2020. 01. ~ 2020. 04.) 디지털존 개발1팀 사원
-  - 도로교통공단 면허신청 관련 KIOSK 개발
-  - 기술 스택 : C#, WPF, MySQL
+   - 도로교통공단 면허신청 관련 KIOSK 개발
+   - 기술 스택 : C#, WPF, MySQL
  - (2019. 06. ~ 2019. 12.) 슈가힐 개발본부 연구원
-  - 상업용 부동산에 초점을 맞춘 부동산 중개 플랫폼 네모 2.0 서비스 개발 보조
-  - 기술 스택 : C#, ASP.NET, Azure, Microsoft SQL Server, Python, PowerShell
+   - 상업용 부동산에 초점을 맞춘 부동산 중개 플랫폼 네모 2.0 서비스 개발 보조
+   - 기술 스택 : C#, ASP.NET, Azure, Microsoft SQL Server, Python, PowerShell
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
-  - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
-  - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server
+   - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
+   - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server
 
 ## Class Project
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
