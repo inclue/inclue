@@ -10,42 +10,33 @@
 
 ## 🙋‍♂️ Profile
  - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 소프트웨어전공 재학 중(현재 3학년 수료)
- - (2020. 12. ~ Now) 안랩 매니지먼트 제품 기능 & 성능 테스트 인턴
+ - (2020. 12. ~ Now) 안랩 매니지먼트개발실 인턴
+  - 매니지먼트 제품 기능 & 성능 테스트 업무 진행
+  - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible, Bamboo, Travis CI
  - (2020. 01. ~ 2020. 04.) 디지털존 개발1팀 사원
+  - 도로교통공단 면허신청 관련 KIOSK 개발
+  - 기술 스택 : C#, WPF, MySQL
  - (2019. 06. ~ 2019. 12.) 슈가힐 개발본부 연구원
+  - 상업용 부동산에 초점을 맞춘 부동산 중개 플랫폼 네모 2.0 서비스 개발 보조
+  - 기술 스택 : C#, ASP.NET, Azure, Microsoft SQL Server, Python, PowerShell
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
+  - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
+  - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server
 
-## Tech Stack
- - Language
-   - Mainly : C#, Python
-   - Sometimes : C/C++, Java, JavaScript, PowerShell, Go(Learning)
-   - SQL : MySQL, MariaDB, Microsoft SQL Server, SQLite
-
- - Framework & Library
-   - WPF & Windows Forms
-   - NodeJS & ExpressJS
-   - Bootstrap & ReactJS
-   - Elasticsearch(Learning)
-
- - Tools
-   - Git(Github, Gitlab, ButBucket) & SVN
-   - JIRA & Confluence
-   - Redmine
-   - DevExpress
-   - Docker & Kubernetes(Learning)
-
-## Project
- - [Tech Interview Practice Service](https://github.com/zeropage/tips)
-   - 캡스톤디자인 수업 팀 프로젝트
-   - 프론트엔드를 주로 전담하여 개발함.
- - [Where to meet?](https://github.com/ChristopherJdL/wheretomeet-api)
-   - 소프트웨어공학 수업 팀 프로젝트
-   - 사용자별 위치를 가져온 뒤, Google Maps API를 이용해 만날 위치를 추천해주는 알고리즘을 개발함.
+## Class Project
+ - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
+   - 기술 면접 연습를 위한 플랫폼
+   - React.js와 Bootstrap을 이용하여 서비스의 프론트엔드 개발을 진행
+   - 기술 스택 : Node.js, ExpressJS, React, JavaScript, Bootstrap, Azure, MariaDB
+ - [Where to meet?](https://github.com/ChristopherJdL/wheretomeet-api) - 소프트웨어공학
+   - 여러 사용자들의 위치를 파악하여 해당 사용자들이 어느 지점에서 만날 위치를 추천해주는 서비스
+   - Google Maps API를 이용해 사용자별 위치를 파악한 후 만날 위치를 추천해주는 알고리즘을 개발함.
+   - 기술 스택 : C#, ASP.NET, Azure, SQLite, Android Studio, Google Maps API
 
 ## Activity
- - (2015. 03. ~ ) 중앙대학교 프로그래밍 학회 ZeroPage 25기
+ - (2015. 03. ~ Now) 중앙대학교 프로그래밍 학회 ZeroPage 25기
    - (2016. 02. ~ 2017. 01.) 중앙대학교 프로그래밍 학회 ZeroPage 26대 회장
- - (2017. 01. ~ ) 중앙대학교 알고리즘 학회 ChAOS 1기
+ - (2017. 01. ~ Now) 중앙대학교 알고리즘 학회 ChAOS 1기
    - (2017. 01. ~ 2017. 12.) 중앙대학교 알고리즘 학회 ChAOS 초대 회장
  - 2017, 2018 중앙대학교 신입생 프로그래밍 대회 문제 출제진 및 내부 검수진
  - 2017, 2018, 2019, 2020 중앙대학교 프로그래밍 경진대회 문제 출제진 및 내부 검수진
