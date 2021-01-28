@@ -12,7 +12,7 @@
  - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 소프트웨어전공 재학 중(현재 3학년 수료)
  - (2020. 12. ~ Now) 안랩 매니지먼트개발실 인턴
    - 매니지먼트 제품 기능 & 성능 테스트 업무 진행
-   - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible, Bamboo
+   - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible
  - (2020. 01. ~ 2020. 04.) 디지털존 개발1팀 사원
    - 도로교통공단 면허신청 관련 KIOSK 개발
    - 기술 스택 : C#, WPF, MySQL
