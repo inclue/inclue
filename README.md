@@ -21,7 +21,7 @@
    - 기술 스택 : C#, ASP.Net Core, Azure, Microsoft SQL Server, Python, PowerShell
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
    - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
-   - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server
+   - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server, 소켓 프로그래밍
 
 ## Class Project
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
