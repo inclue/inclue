@@ -23,7 +23,7 @@
    - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
    - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server, 소켓 프로그래밍
 
-## Class Project
+## Project
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
    - 기술 면접 연습를 위한 플랫폼
    - React.js와 Bootstrap을 이용하여 서비스의 프론트엔드 개발을 진행
