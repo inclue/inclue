@@ -25,7 +25,7 @@
 
 ## Project
  - [solved.ac 레이팅 계산기](https://github.com/inclue/SolvedacNewratingCalculator)
-   - solved.ac 사이트의 2021년 3월부터 바뀌는 레이팅을 계산해주는 계산기를 제작
+   - solved.ac 사이트의 2021년 3월부터 바뀌는 레이팅을 계산해주는 프로그램 제작
    - 1인 프로젝트로 진행하던 중에 다른 사용자들의 PR이 있어 이를 반영함.
    - 기술 스택 : Python, solved.ac API
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
