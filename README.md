@@ -36,6 +36,12 @@
    - 여러 사용자들의 위치를 파악하여 해당 사용자들이 어느 지점에서 만날 위치를 추천해주는 서비스
    - Google Maps API를 이용해 사용자별 위치를 파악한 후 만날 위치를 추천해주는 알고리즘을 개발함.
    - 기술 스택 : C#, ASP.NET, Azure, SQLite, Android Studio, Google Maps API
+ - [그림 일기](https://github.com/inclue/PictureDiary) - 객체지향설계
+   - 그림판과 함께 글씨를 저장할 수 있는 그림일기를 제작함.
+   - 기술 스택 : Java, Swing
+ - [오목 게임](https://github.com/ZeroPage/NetworkOmokProject)
+   - 소켓 프로그래밍을 활용한 GUI 오목 게임을 제작함.
+   - 기술 스택 : Java, Swing, 소켓 프로그래밍
 
 ## Activity
  - (2015. 03. ~ Now) 중앙대학교 프로그래밍 학회 ZeroPage 25기
