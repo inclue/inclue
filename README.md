@@ -11,36 +11,38 @@
 ## 🙋‍♂️ Profile
  - (2015. 03. ~ 2022. 02.) 중앙대학교 창의ICT공과대학 컴퓨터공학부 소프트웨어전공 재학 중(현재 3학년 수료, 4학년 진학예정)
  - (2020. 12. ~ Now) 안랩 매니지먼트개발실 인턴
-   - 매니지먼트 제품 기능 & 성능 테스트 업무 진행
+   - 업무 : 매니지먼트 제품 기능 & 성능 테스트 업무 진행
    - 기술 스택 : Python, Go, Kubernetes, Elasticsearch, Ansible
  - (2020. 01. ~ 2020. 04.) 디지털존 개발1팀 사원
-   - 도로교통공단 면허신청 관련 KIOSK 시스템 개발
+   - 업무 : 도로교통공단 면허신청 관련 KIOSK 시스템 개발
    - 기술 스택 : C#, WPF, MySQL
  - (2019. 06. ~ 2019. 12.) 슈가힐 개발본부 연구원
-   - 상업용 부동산에 초점을 맞춘 부동산 중개 플랫폼 네모 2.0 서비스 개발 보조
+   - 업무 : 상업용 부동산에 초점을 맞춘 부동산 중개 플랫폼 네모 2.0 서비스 개발 보조
    - 기술 스택 : C#, ASP.Net Core, Azure, Microsoft SQL Server, Python, PowerShell
  - (2017. 11. ~ 2019. 06.) 유림정보시스템 개발2팀 사원
-   - 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
+   - 업무 : 실시간 설비현황 모니터링 시스템 (F/Proof) 개발
    - 기술 스택 : C#, Windows Forms, DevExpress, Microsoft SQL Server, 소켓 프로그래밍
 
 ## Project
  - [solved.ac 레이팅 계산기](https://github.com/inclue/SolvedacNewratingCalculator)
    - [solved.ac](https://solved.ac/) 서비스에서 2021년 3월부터 바뀌는 레이팅을 계산해주는 스크립트 제작
-   - 1인 프로젝트로 진행하던 중에 다른 사용자들의 PR이 있어 이를 반영함.
+   - 역할 : 개인 프로젝트로 진행, 다른 사용자들의 PR 요청이 있어 이를 반영
    - 기술 스택 : Python, solved.ac API
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) - 캡스톤디자인(1)
    - 기술 면접 연습를 위한 플랫폼
-   - React.js와 Bootstrap을 이용하여 서비스의 프론트엔드 개발을 진행
+   - 역할 : React.js와 Bootstrap을 이용하여 서비스의 프론트엔드 개발을 진행
    - 기술 스택 : Node.js, ExpressJS, React, JavaScript, Bootstrap, Azure, MariaDB
  - [Where to meet?](https://github.com/ChristopherJdL/wheretomeet-api) - 소프트웨어공학
    - 여러 사용자들의 위치를 파악하여 해당 사용자들이 어느 지점에서 만날 위치를 추천해주는 서비스
-   - Google Maps API를 이용해 사용자별 위치를 파악한 후 만날 위치를 추천해주는 알고리즘을 개발함.
+   - 역할 : Google Maps API를 이용해 사용자별 위치를 파악한 후 만날 위치를 추천해주는 알고리즘을 개발
    - 기술 스택 : C#, ASP.NET, Azure, SQLite, Android Studio, Google Maps API
  - [그림 일기](https://github.com/inclue/PictureDiary) - 객체지향설계
-   - 그림판과 함께 글씨를 저장할 수 있는 그림일기를 제작함.
+   - 그림판과 함께 글씨를 저장할 수 있는 그림일기를 제작
+   - 역할 : 개인 프로젝트로 진행
    - 기술 스택 : Java, Swing
- - [오목 게임](https://github.com/ZeroPage/NetworkOmokProject)
-   - 소켓 프로그래밍을 활용한 GUI 오목 게임을 제작함.
+ - [네오프](https://github.com/ZeroPage/NetworkOmokProject)
+   - 소켓 프로그래밍을 활용한 GUI 오목 게임을 제작
+   - 역할 : 페어프로그래밍을 통하여 개발을 진행
    - 기술 스택 : Java, Swing, 소켓 프로그래밍
 
 ## Activity
