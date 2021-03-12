@@ -47,18 +47,14 @@
    - (2016. 02. ~ 2017. 01.) 중앙대학교 프로그래밍 학회 ZeroPage 26대 회장
  - (2017. 01. ~ Now) 중앙대학교 알고리즘 학회 ChAOS 1기
    - (2017. 01. ~ 2017. 12.) 중앙대학교 알고리즘 학회 ChAOS 초대 회장
- - 문제 출제 목록
+ - (2017. 03. ~ 2017. 06.) 컴퓨팅적사고와문제해결 교과목 멘토링 활동
+ - 문제 출제 및 검수진 목록
    - 2017, 2018 중앙대학교 신입생 프로그래밍 대회 문제 출제진 및 내부 검수진
    - 2017, 2018, 2019, 2020 중앙대학교 프로그래밍 경진대회 문제 출제진 및 내부 검수진
+   - 2020 [경북대학교](https://www.acmicpc.net/contest/view/545), [연세대학교](https://www.acmicpc.net/contest/view/550), [인천대학교](https://www.acmicpc.net/contest/view/571), [한양대학교(ERICA)](https://www.acmicpc.net/category/detail/2374), [인하대학교](https://www.acmicpc.net/category/detail/2381) 교내대회 외부 검수진
+   - 2020 [경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/category/detail/2399) 외부 검수진
+   - [제1회](https://www.acmicpc.net/contest/view/557) 류호석배 알고리즘 코딩 테스트 외부 검수진
    - [만든 문제 목록](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) 보러가기
- - 외부 검수진 목록
-   - [2020 경북대학교 Goricon](https://www.acmicpc.net/contest/view/545) 외부 검수진
-   - [2020 연세대학교 컴퓨터과학과 프로그래밍 경진대회](https://www.acmicpc.net/contest/view/550) 외부 검수진
-   - [제1회 류호석배 알고리즘 코딩 테스트](https://www.acmicpc.net/contest/view/557) 외부 검수진
-   - [INU 코드 페스티벌 2020](https://www.acmicpc.net/category/detail/2364) 외부 검수진
-   - [Zero One Algorithm Contest 2020](https://www.acmicpc.net/category/detail/2374) 외부 검수진
-   - [2020 인하대학교 프로그래밍 경진대회](https://www.acmicpc.net/category/detail/2381) 외부 검수진
-   - [2020 경인지역 6개대학 연합 프로그래밍 경시대회 shake!](https://www.acmicpc.net/category/detail/2399) 외부 검수진
 
 ## Awards
  - (2021. 01.) [제1회 멀티캠퍼스 코딩마스터즈](https://www.multicampus.com/common/board/boardMstr/124386?bltndSno=12351964) Back-End 2위
