@@ -84,7 +84,7 @@
  - [Go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
  - Creating and Testing the 2017, 2018 and 2021 CAU Freshman Programming Contest Problems
  - Creating and Testing the 2017, 2018, 2019 and 2020 CAU Programming Contest Problems
- - Test Various Contest Problems
+ - Test Various Programming Contest Problems
    - [Kyungpook National University](https://www.acmicpc.net/contest/view/545)
    - [Yonsei University](https://www.acmicpc.net/contest/view/550)
    - [Incheon National University](https://www.acmicpc.net/contest/view/571)
