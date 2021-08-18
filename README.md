@@ -1,4 +1,4 @@
-# 🙋‍♂️ Introduction
+## 🙋‍♂️ Introduction
 ### Inseo Park - inclue
 
 <div align="center">
@@ -23,11 +23,6 @@
  - B.Eng. in Computer Science & Engineering, Chung-Ang University *2015. 03. ~ 2022. 02.*
 
 ## ⚒ Tech Skill
-**Frontend, Client**
- - Windows Application : WinForms, WPF
- - Cross Platform Application : Xamarin
- - Frontend Framework : React.js
-
 **Backend, Server**
  - Backend Framework : ASP.NET Core, Spring Boot, CodeIgniter
  - Database : Microsoft SQL Server, MySQL
@@ -35,6 +30,11 @@
 **DevOps**
  - Cloud Computing Service : AWS, Azure
  - Container Service : Docker, Kubernetes
+
+**Frontend, Client**
+ - Windows Application : WinForms, WPF
+ - Cross Platform Application : Xamarin
+ - Frontend Framework : React.js
 
 **Language**
  - Favorite : C/C++, C#, Python, Java
