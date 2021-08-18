@@ -99,7 +99,6 @@
  - [C#을 다루는 기술(Translation for C# in Depth)](http://www.yes24.com/Product/Goods/101511486) Beta Reader
  - Community
    - [CAU BOJ and Programmers Q&A Open Chat Room](https://open.kakao.com/o/gH56Ayoc) Manager
-   - 
  - Open Source
    - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) : [Update "Delete resource group" process](https://github.com/MicrosoftDocs/azure-docs/pull/60913)
 
