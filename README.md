@@ -78,6 +78,7 @@
 
 **Teaching**
  - Computational thinking and problem solving Course Mentoring Activities *2017. 03. ~ 2017. 06.*
+ - 2016, 2017, 2020, 2021 Sprout Class Mentor (hosted by ZeroPage)
 
 **Algorithm & Competitive Programming**
  - [go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
@@ -97,7 +98,7 @@
 **ETC**
  - [C#을 다루는 기술(Translation for C# in Depth)](http://www.yes24.com/Product/Goods/101511486) Beta Reader
  - Open Source
-   - MicrosoftDocs/azure-docs : [Update "Delete resource group" process](https://github.com/MicrosoftDocs/azure-docs/pull/60913)
+   - [MicrosoftDocs/azure-docs](https://github.com/MicrosoftDocs/azure-docs) : [Update "Delete resource group" process](https://github.com/MicrosoftDocs/azure-docs/pull/60913)
 
 ## Cards - Github
 <div align="center">
