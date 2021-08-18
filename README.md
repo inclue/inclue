@@ -12,15 +12,15 @@
 ### 💻 Work Experience
 |Role|Company|Period|
 |---|---|---|
-|Tizen UI Framework Intern|Samsung Research|2021. 07. ~ 2021. 08.|
-|Backend Server Developer|SOCAR|2021. 03. ~ 2021. 06.|
-|Product Testing Intern|AhnLab|2020. 12. ~ 2021. 02.|
-|Windows Application Developer|Digitalzone|2020. 01. ~ 2020. 04.|
-|Backend Server Developer|Sugarhill|2019. 06. ~ 2019. 12.|
-|Windows Application Developer|Yurim Information System|2017. 11. ~ 2019. 06.|
+|Tizen UI Framework Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
+|Backend Server Developer|[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
+|Product Testing Intern|[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
+|Windows Application Developer|[Digitalzone](http://www.digitalzone.co.kr/index.php)|2020. 01. ~ 2020. 04.|
+|Backend Server Developer|[Sugarhill](https://www.sugarhill.co.kr/)|2019. 06. ~ 2019. 12.|
+|Windows Application Developer|[Yurim Information System](https://yurim-info.com/)|2017. 11. ~ 2019. 06.|
 
 ### 🎓 Education
- - B.Eng. in Computer Science & Engineering, Chung-Ang University *2015. 03. ~ 2022. 02.*
+ - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2015. 03. ~ 2022. 02.*
 
 ## ⚒ Tech Skill
 **Backend, Server**
