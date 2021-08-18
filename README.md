@@ -60,8 +60,8 @@
 |[2020 ICPC Asia Seoul Regional Contest](http://icpckorea.org/2020-seoul/regional)|Honorable Mention|2020. 11.|Team Name : Decentralization|
 |[CAU 2020 SW/AI Major Coding Contest](https://programmers.co.kr/competitions/515/cau-2020-sw-ai-coding-contest)|최우수상(Very Best)|2020. 09.||
 |[Brandi Code Name B](https://brandi.goorm.io/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b_)|장려상(Encouragement)|2020. 09.||
-|2019 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php)|장려상(Encouragement)|2019. 07.|Algorithm Programming University Division|
-|2018 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php)|장려상(Encouragement)|2018. 07.|Algorithm Programming University Division|
+|2019 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|장려상(Encouragement)|2019. 07.|University Division|
+|2018 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|장려상(Encouragement)|2018. 07.|University Division|
 |TOPCIT 2nd Algorithm Regular Test|7등(7th)|2017. 12.||
 |CAU Creative ICT Programming Contest|특별상(Special)|2015. 11.|Team Name : 참가상주나요|
 
@@ -81,7 +81,7 @@
  - 2016, 2017, 2020, 2021 Sprout Class Mentor (hosted by ZeroPage)
 
 **Algorithm & Competitive Programming**
- - [go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
+ - [Go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
  - Creating and Testing the 2017, 2018, and 2021 CAU Freshman Programming Contest Problems
  - Creating and Testing the 2017, 2018, 2019, and 2020 CAU Programming Contest Problems
  - Test various contest questions
