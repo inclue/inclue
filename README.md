@@ -20,7 +20,7 @@
 |Windows Application Developer|Yurim Information System|2017. 11. ~ 2019. 06.|
 
 ### 🎓 Education
- - B.S. in Computer Science & Engineering, Chung-Ang University *2015. 03. ~ 2022. 02.*
+ - B.Eng. in Computer Science & Engineering, Chung-Ang University *2015. 03. ~ 2022. 02.*
 
 ## ⚒ Tech Skill
 **Frontend, Client**
