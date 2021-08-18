@@ -78,12 +78,12 @@
 
 **Teaching**
  - Computational thinking and problem solving Course Mentoring Activities *2017. 03. ~ 2017. 06.*
- - 2016, 2017, 2020, 2021 Sprout Class Mentor (hosted by ZeroPage)
+ - 2016, 2017, 2020 and 2021 Sprout Class Mentor (hosted by ZeroPage)
 
 **Algorithm & Competitive Programming**
  - [Go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
- - Creating and Testing the 2017, 2018, and 2021 CAU Freshman Programming Contest Problems
- - Creating and Testing the 2017, 2018, 2019, and 2020 CAU Programming Contest Problems
+ - Creating and Testing the 2017, 2018 and 2021 CAU Freshman Programming Contest Problems
+ - Creating and Testing the 2017, 2018, 2019 and 2020 CAU Programming Contest Problems
  - Test Various Contest Problems
    - [Kyungpook National University](https://www.acmicpc.net/contest/view/545)
    - [Yonsei University](https://www.acmicpc.net/contest/view/550)
