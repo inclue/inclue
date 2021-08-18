@@ -78,7 +78,7 @@
 
 **Teaching**
  - Computational thinking and problem solving Course Mentoring Activities *2017. 03. ~ 2017. 06.*
- - 2016, 2017, 2020 and 2021 Sprout Class Mentor (hosted by ZeroPage)
+ - 2016, 2017, 2020 and 2021 [Sprout Class](https://wiki.zeropage.org/wiki.php/%EC%83%88%EC%8B%B9%EA%B5%90%EC%8B%A4) Mentor (hosted by ZeroPage)
 
 **Algorithm & Competitive Programming**
  - [Go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
