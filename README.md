@@ -67,8 +67,8 @@
 
 ### Activity
 **School Club**
- - CAU ZeroPage 25th Generation Member & 26th President
- - CAU ChAOS Founding Member & 1st President
+ - CAU ZeroPage 25th Generation Member & 26th President *2015. 03. ~ *
+ - CAU ChAOS Founding Member & 1st President *2017. 01. ~ *
 
 **Presentation**
  - [Prepare for a career as a junior software developer](https://www.slideshare.net/InseoPark1/sw-249999852) in [Devils Camp 2021](https://wiki.zeropage.org/wiki.php/%EB%8D%B0%EB%B8%94%EC%8A%A4%EC%BA%A0%ED%94%842021)
