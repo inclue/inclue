@@ -58,10 +58,10 @@
 |[Multi-Campus Coding Masters](https://www.multicampus.com/common/board/boardMstr/124386?bltndSno=12351964)|2등상(2nd Prize)|2021. 01.|Back-End Division|
 |[2020 Open Source Contributhon](https://www.oss.kr/contributhon_notice/show/bf01f047-eb8e-429a-a986-3560bf6d691e)|가비아 특별상(Special)|2020. 11.|Topic : .NET Core Framework & SDK|
 |[2020 ICPC Asia Seoul Regional Contest](http://icpckorea.org/2020-seoul/regional)|Honorable Mention|2020. 11.|Team Name : Decentralization|
-|[CAU 2020 SW/AI Major Coding Contest](https://programmers.co.kr/competitions/515/cau-2020-sw-ai-coding-contest)|최우수상(Very Best)|2020. 09.||
+|[CAU 2020 SW/AI Major Coding Contest](https://programmers.co.kr/competitions/515/cau-2020-sw-ai-coding-contest)|최우수상(Most Excellent)|2020. 09.||
 |[Brandi Code Name B](https://brandi.goorm.io/assessment/22248/2020-%EB%B8%8C%EB%9E%9C%EB%94%94-%EC%BD%94%EB%94%A9%EB%8C%80%ED%9A%8C-%EC%BD%94%EB%93%9C%EB%84%A4%EC%9E%84b_)|장려상(Encouragement)|2020. 09.||
-|2019 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|장려상(Encouragement)|2019. 07.|University Division|
-|2018 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|장려상(Encouragement)|2018. 07.|University Division|
+|2019 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|동상(Bronze)|2019. 07.|University Division|
+|2018 [ICT K-Awards](http://kise.or.kr/new/s2/s2_19.php) Algorithm Programming|동상(Bronze)|2018. 07.|University Division|
 |TOPCIT 2nd Algorithm Regular Test|7등(7th)|2017. 12.||
 |CAU Creative ICT Programming Contest|특별상(Special)|2015. 11.|Team Name : 참가상주나요|
 
