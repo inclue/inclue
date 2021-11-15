@@ -12,7 +12,7 @@
 ### 💻 Work Experience
 |Role|Company|Period|
 |---|---|---|
-|Tizen UI Framework Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
+|Tizen Developer Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
 |Backend Server Developer|[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
 |Product Testing Intern|[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
 |Windows Application Developer|[Digitalzone](http://www.digitalzone.co.kr/index.php)|2020. 01. ~ 2020. 04.|
