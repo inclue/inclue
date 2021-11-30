@@ -66,6 +66,11 @@
 |TOPCIT 2nd Algorithm Regular Test|7등(7th)|2017. 12.||
 |CAU Creative ICT Programming Contest|특별상(Special)|2015. 11.|Team Name : 참가상주나요|
 
+### 📜 Certificate
+ - 정보처리기사(Engineer Information Processing) *2021. 11.*
+ - TOPCIT 수준3 537점(TOPCIT Competent, Point 537) *2020. 10.*
+ - 삼성전자 SW 역량테스트 A형(Samsung Electronics SW Test Type A) *2019. 11.*
+
 ### Activity
 **School Club**
  - CAU ZeroPage 25th Generation Member & 26th President *2015. 03. ~ 2022. 02.*
