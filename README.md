@@ -55,7 +55,7 @@
 
 ### 📜 Certificate
  - 정보처리기사(Engineer Information Processing) *2021. 11.*
- - TOPCIT 수준3 537점(TOPCIT Competent, 537 points) *2020. 10.*
+ - TOPCIT 수준3, 537점(TOPCIT Competent, 537 points) *2020. 10.*
  - 삼성전자 SW 역량테스트 A형(Samsung Electronics SW Test Type A) *2019. 11.*
 
 ### Activity
