@@ -7,7 +7,7 @@
 ### 💻 Work Experience
 |Role|Company|Period|
 |---|---|---|
-|Smart Factory(FACTOVA) Developer Intern|[LG CNS](https://research.samsung.com/)|2021. 11. ~ 2021. 12.|
+|Smart Factory(FACTOVA) Developer Intern|[LG CNS](https://lgcns.com/)|2021. 11. ~ 2021. 12.|
 |Tizen Developer Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
 |Backend Server Developer|[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
 |Product Testing Intern|[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
