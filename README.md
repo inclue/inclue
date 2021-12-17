@@ -7,12 +7,12 @@
 ### 💻 Work Experience
 |Role|Company|Period|
 |---|---|---|
-|Smart Factory(FACTOVA) Developer Intern|[LG CNS](https://lgcns.com/)|2021. 11. ~ 2021. 12.|
-|Tizen Developer Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
-|Backend Server Developer|[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
-|Product Testing Intern|[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
+|Intern|[LG CNS](https://lgcns.com/)|2021. 11. ~ 2021. 12.|
+|Intern|[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
+|Backend Developer|[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
+|Intern|[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
 |Windows Application Developer|[Digitalzone](http://www.digitalzone.co.kr/index.php)|2020. 01. ~ 2020. 04.|
-|Backend Server Developer|[Sugarhill](https://www.sugarhill.co.kr/)|2019. 06. ~ 2019. 12.|
+|Backend Developer|[Sugarhill](https://www.sugarhill.co.kr/)|2019. 06. ~ 2019. 12.|
 |Windows Application Developer|[Yurim Information System](https://yurim-info.com/)|2017. 11. ~ 2019. 06.|
 
 ### 🎓 Education
@@ -56,8 +56,7 @@
 
 ### 📜 Certificate
  - 정보처리기사(Engineer Information Processing) *2021. 11.*
- - TOPCIT 수준3, 537점(TOPCIT Competent, 537 points) *2020. 10.*
- - 삼성전자 SW 역량테스트 A형(Samsung Electronics SW Test Type A) *2019. 11.*
+ - SQL개발자(SQL Developer) *2021. 12.*
 
 ### Activity
 **School Club**
