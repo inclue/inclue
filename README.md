@@ -7,13 +7,14 @@
 ### 💻 Work Experience
 | Role | Company | Period |
 |---|---|---|
-| Intern |[LG CNS](https://lgcns.com/)|2021. 11. ~ 2021. 12.|
-| Intern |[Samsung Research](https://research.samsung.com/)|2021. 07. ~ 2021. 08.|
-| Backend Developer |[SOCAR](https://www.socar.kr/)|2021. 03. ~ 2021. 06.|
-| Intern |[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020. 12. ~ 2021. 02.|
-| Windows Application Developer |[Digitalzone](http://www.digitalzone.co.kr/index.php)|2020. 01. ~ 2020. 04.|
-| Backend Developer |[Sugarhill](https://www.sugarhill.co.kr/)|2019. 06. ~ 2019. 12.|
-| Windows Application Developer |[Yurim Information System](https://yurim-info.com/)|2017. 11. ~ 2019. 06.|
+| Software Engineer |[NAVER](https://navercorp.com/)|2021.12. ~ |
+| Intern |[LG CNS](https://lgcns.com/)|2021.11. ~ 2021.12.|
+| Intern |[Samsung Research](https://research.samsung.com/)|2021.07. ~ 2021.08.|
+| Backend Developer |[SOCAR](https://www.socar.kr/)|2021.03. ~ 2021.06.|
+| Intern |[AhnLab](https://www.ahnlab.com/kr/site/main.do)|2020.12. ~ 2021.02.|
+| Windows Application Developer |[Digitalzone](http://www.digitalzone.co.kr/index.php)|2020.01. ~ 2020.04.|
+| Backend Developer |[Sugarhill](https://www.sugarhill.co.kr/)|2019.06. ~ 2019.12.|
+| Windows Application Developer |[Yurim Information System](https://yurim-info.com/)|2017.11. ~ 2019.06.|
 
 ### 🎓 Education
  - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2015. 03. ~ 2022. 02.*
@@ -55,8 +56,8 @@
 |CAU Creative ICT Programming Contest|특별상(Special)|2015. 11.|Team Name : 참가상주나요|
 
 ### 📜 Certificate
- - 정보처리기사(Engineer Information Processing) *2021. 11.*
- - SQL개발자(SQL Developer) *2021. 12.*
+ - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Service of Korea *2021. 11.*
+ - [SQL개발자](https://www.dataq.or.kr/www/sub/a_04.do)(SQL Developer), Korea Data Agency *2021. 12.*
 
 ### Activity
 **School Club**
