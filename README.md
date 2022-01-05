@@ -17,7 +17,8 @@
 | Windows Application Developer |[Yurim Information System](https://yurim-info.com/)|2017.11. ~ 2019.06.|
 
 ### 🎓 Education
- - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2015. 03. ~ 2022. 02.*
+- B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2015. 03. ~ 2022. 02.*
+  - GPA : All 3.45/4.5, Major 3.71/4.5
 
 ## ⚒ Tech Skill
 |Classification|Skills|
