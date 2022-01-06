@@ -76,7 +76,7 @@
  - 2016, 2017, 2020 and 2021 [Sprout Class](https://wiki.zeropage.org/wiki.php/%EC%83%88%EC%8B%B9%EA%B5%90%EC%8B%A4) Mentor (hosted by ZeroPage)
 
 **Algorithm & Competitive Programming**
- - [Go to the problem](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1) which i made
+ - I made [these problems](https://www.acmicpc.net/problemset?sort=no_asc&author=dlstj0923&author_type=1)
  - Creating and Testing the 2017, 2018 and 2021 CAU Freshman Programming Contest Problems
  - Creating and Testing the 2017, 2018, 2019 and 2020 CAU Programming Contest Problems
  - Test Various Programming Contest Problems
