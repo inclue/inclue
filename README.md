@@ -57,8 +57,8 @@
 |CAU Creative ICT Programming Contest|특별상(Special)|2015. 11.|Team Name : 참가상주나요|
 
 ### 📜 Certificate
- - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Korea *2021. 11. ~*
- - [SQL 개발자](https://www.dataq.or.kr/www/sub/a_04.do)(SQL Developer), Korea Data Agency *2021. 12. ~*
+ - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Korea *2021. 11. ~ Now*
+ - [SQL 개발자](https://www.dataq.or.kr/www/sub/a_04.do)(SQL Developer), Korea Data Agency *2021. 12. ~ Now*
 
 ### Activity
 **School Club**
