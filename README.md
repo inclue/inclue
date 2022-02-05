@@ -36,9 +36,10 @@
 ## 🌏 Other Experience
 ### 📝 Project
 **School Project**
+ - [Meeting speaker recognition](https://github.com/CJavaPython/meeting_speaker_recognition) / Convergent IoT Project Design
  - [Tech Interview Practice Service](https://github.com/zeropage/tips) / Capstone Design (1)
  - [Where to meet?](https://github.com/ChristopherJdL/wheretomeet-api) / Human ICT Software Engineering
- - [Picture Diary](https://github.com/inclue/PictureDiary) / Object Oriented Programming and Design
+ - [Picture diary](https://github.com/inclue/PictureDiary) / Object Oriented Programming and Design
 
 **Toy Project**
  - [solved.ac New Rating Calculator](https://github.com/inclue/SolvedacNewratingCalculator)
