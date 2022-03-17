@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Introduction
 <div align="center">
-<b>Inseo Park - inclue</b>
+<b>Inseo Park a.k.a. 닷지, 백발백준, inclue</b>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inclue/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://inclue.kr/)
