@@ -63,6 +63,7 @@
 ### 📜 Certificate
  - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Korea *2021. 11. ~ Now*
  - [SQL 개발자](https://www.dataq.or.kr/www/sub/a_04.do)(SQL Developer), Korea Data Agency *2021. 12. ~ Now*
+ - [COS Pro 1급](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)(Coding Specialist Professional Level 1), YBM *2022. 07. ~ Now*
 
 ### Activity
 **School Club**
