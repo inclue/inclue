@@ -49,6 +49,7 @@
 ### 🏅 Awards
 |Awards|Grade|Date|Note|
 |---|---|---|---|
+|[2022 Woori Coding Festival](https://www.ybmit.com/event/revent/woori_Code/event.jsp)|특별상(Special)|2022. 09.||
 |[CAU 2021 SW/AI Major Coding Contest](https://programmers.co.kr/competitions/1736/)|최우수상(Most Excellent)|2021. 11.||
 |[Multi-Campus Coding Masters](https://www.multicampus.com/common/board/boardMstr/124386?bltndSno=12351964)|2등상(2nd Prize)|2021. 01.|Back-End Division|
 |[2020 Open Source Contributhon](https://www.oss.kr/contributhon_notice/show/bf01f047-eb8e-429a-a986-3560bf6d691e)|가비아 특별상(Special)|2020. 11.|Topic : .NET Core Framework & SDK|
@@ -63,7 +64,7 @@
 ### 📜 Certificate
  - [정보처리기사](https://www.q-net.or.kr/crf005.do?id=crf00505&jmCd=1320)(Engineer Information Processing), HRD Korea *2021. 11. ~ Now*
  - [SQL 개발자](https://www.dataq.or.kr/www/sub/a_04.do)(SQL Developer), Korea Data Agency *2021. 12. ~ Now*
- - [COS Pro 1급](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)(Coding Specialist Professional Level 1), YBM *2022. 07. ~ Now*
+ - [COS Pro 1급](https://www.ybmit.com/cos_pro/cos_pro_info.jsp)(Coding Specialist Professional Level-Ⅰ), YBM *2022. 07. ~ Now*
 
 ### Activity
 **School Club**
