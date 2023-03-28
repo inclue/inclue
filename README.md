@@ -5,23 +5,23 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inclue/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://inclue.kr/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/inclue)
+
+**[NAVER Corp.](https://navercorp.com/) Backend Developer**
+<br />
+**(from 2021.12 ~ Now)**
+
 </div>
 
-### 💻 Major Work Experience
-| Role | Company | Period |
-|---|---|---|
-| Backend Developer, Software Engineer |[NAVER Corp.](https://navercorp.com/)|2021.12. ~ now|
-| Backend Developer, Software Engineer |[SOCAR](https://www.socar.kr/)|2021.03. ~ 2021.06. (3.5 months)|
-
-### 💻 Other Work Experience
+### 💻 Previous Work Experience
 - Intern
-  - [LG CNS](https://lgcns.com/) / 2021.11. ~ 2021.12. (0.7 months)
-  - [Samsung Research](https://research.samsung.com/) / 2021.07. ~ 2021.08. (1.5 months)
-  - [AhnLab](https://www.ahnlab.com/kr/site/main.do) / 2020.12. ~ 2021.02. (2 months)
+  - [LG CNS](https://lgcns.com/) / 2021.11. ~ 2021.12.
+  - [Samsung Research](https://research.samsung.com/) / 2021.07. ~ 2021.08.
+  - [AhnLab](https://www.ahnlab.com/kr/site/main.do) / 2020.12. ~ 2021.02.
 - Full-Time
-  - [Digitalzone](http://www.digitalzone.co.kr/index.php) / 2020.01. ~ 2020.04. (4 months)
-  - [Sugarhill](https://www.sugarhill.co.kr/) / 2019.06. ~ 2019.12. (6 months)
-  - [Yurim Information System](https://yurim-info.com/) / 2017.11. ~ 2019.06. (18 months)
+  - [SOCAR](https://www.socar.kr/) / 2021.03. ~ 2021.06.
+  - [Digitalzone](http://www.digitalzone.co.kr/index.php) / 2020.01. ~ 2020.04.
+  - [Sugarhill](https://www.sugarhill.co.kr/) / 2019.06. ~ 2019.12.
+  - [Yurim Information System](https://yurim-info.com/) / 2017.11. ~ 2019.06.
 
 ### 🎓 Education
 - B.Eng. in [Computer Science & Engineering](https://cse.cau.ac.kr/main.php), Chung-Ang University *2015. 03. ~ 2022. 02.*
