@@ -76,6 +76,7 @@
  - CAU ChAOS Starting Member & 1st President *2017. 01. ~ 2022. 02.*
 
 **Presentation**
+ - [TypeScript Introduction](https://youtu.be/FLysfZ1eRBQ) in [Devils Camp 2023](https://wiki.zeropage.org/wiki.php/%EB%8D%B0%EB%B8%94%EC%8A%A4%EC%BA%A0%ED%94%84/2023)
  - [NestJS](https://youtu.be/n2UZ05VdX9Q) in [Devils Camp 2022](https://wiki.zeropage.org/wiki.php/%EB%8D%B0%EB%B8%94%EC%8A%A4%EC%BA%A0%ED%94%842022)
  - [Prepare for a career as a junior software developer](https://www.slideshare.net/InseoPark1/sw-249999852) in [Devils Camp 2021](https://wiki.zeropage.org/wiki.php/%EB%8D%B0%EB%B8%94%EC%8A%A4%EC%BA%A0%ED%94%842021)
  - [History of .NET and Getting Started with .NET](https://youtu.be/yNga0EknOxY) in [Devils Camp 2020](https://wiki.zeropage.org/wiki.php/%EB%8D%B0%EB%B8%94%EC%8A%A4%EC%BA%A0%ED%94%842020)
