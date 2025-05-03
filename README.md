@@ -1,10 +1,9 @@
 ## 🙋‍♂️ Introduction
 <div align="center">
-<b>Inseo Park a.k.a. 닷지, 백발백준, inclue</b>
+<b>Inseo Park a.k.a. Ang대핑, inclue</b>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/inclue/)
 [![Blog](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=blogger&logoColor=white)](https://inclue.kr/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finclue)](https://github.com/inclue)
 
 **[NAVER Corp.](https://navercorp.com/) Backend Developer**
 <br />
@@ -113,7 +112,7 @@
 ## Cards
 <div align="center">
 
-[![dlstj0923's solvedac profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dlstj0923)](https://solved.ac/profile/dlstj0923)
+[![BOJ](https://bojstat.vulcan.site/v2/ko/dlstj0923)](https://www.acmicpc.net/user/dlstj0923)
 [![CodeForces Profile](http://cf.leed.at?id=inclue)](https://codeforces.com/profile/inclue)
 
 </div>
